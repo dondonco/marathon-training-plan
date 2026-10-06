@@ -1,0 +1,5 @@
+{
+  "appId": "com.runner.marathon.plan",
+  "appName": "marathon-training-plan",
+  "webDir": "dist"
+}
